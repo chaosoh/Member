@@ -5,12 +5,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>server.jsp</title>
+<title>view.jsp</title>
 <%@ include file="/WEB-INF/views/common.jspf" %>
+<style type="text/css">
+	
+</style>
 </head>
 <body>
-<c:forEach var="a" items="${sessionScope}">
-${a.key} = ${a.value} <br>
-</c:forEach>
+<h1>view.jsp</h1>
+
+
 </body>
 </html>
