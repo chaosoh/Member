@@ -83,7 +83,7 @@ $(document).ready(function() {
 <%-- <c:redirect url="/member/regist"/> --%>
 
 <div class="panel panel-primary">
-	<h1 id="home" class="panel-head scale-animation">World Employee Home</h1>
+	<h1 id="home" class="panel-head scale-animation">World Employee Home..</h1>
 </div>
 
 </body>
